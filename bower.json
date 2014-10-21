@@ -1,0 +1,30 @@
+{
+    "name": "angular-google-dashboard-chart",
+    "version": "0.0.1",
+    "main": "./ng-google-dashboard-chart.js",
+    "homepage": "http://freke.github.io/angular-google-dashboard-chart/",
+    "authors": [
+        "David AAberg <davabe@hotmail.com>",
+        "GitHub Contributors"
+    ],
+    "keywords": [
+        "angular",
+        "angularjs",
+        "google",
+        "chart",
+        "dashboard",
+        "controller",
+        "graph"
+    ],
+    "license": "MIT",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt",
+        "**/.*",
+        "bower_components"
+    ],
+    "dependencies": {
+        "angular": "~1.2.9"
+    },
+    "devDependencies": {}
+}
